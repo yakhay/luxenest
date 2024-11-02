@@ -2,6 +2,7 @@
 import React, { useEffect, useState } from 'react';
 import { useRouter } from 'next/navigation'; // Updated import for app directory
 import Product from './Product';
+import Link from 'next/link';
 
 function Shopproducts() {
     const [products, setProducts] = useState([]);
@@ -50,7 +51,7 @@ function Shopproducts() {
             </div>
             <div className='grid lg:grid-cols-4 lg:gap-20 md:grid-cols-2 md:gap-4 grid-col-1 gab-4'>
                 {items.map((product) => (
-                    <Product key={product.id} product={product} />
+                    <Link key={product.id} href={`/product-details/${product.id}`}><Product key={product.id} product={product} /> </Link>
                 ))}
             </div>
             <div className='mt-[20px]'>
