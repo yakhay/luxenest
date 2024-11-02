@@ -3,14 +3,14 @@
 @tailwind utilities;
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* --background: #ffffff; */
+  /* --foreground: #171717; */
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    /* --background: #0a0a0a; */
+    /* --foreground: #ededed; */
   }
 }
 
@@ -18,4 +18,34 @@ body {
   color: var(--foreground);
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
+}
+/* .mySwiper {
+  width: 100%;
+  height: 300px;
+} */
+
+.swiper-pagination {
+  bottom: 10px; /* Adjust as needed */
+  text-align: center;
+}
+.swiper-pagination-bullet {
+  width: 12px; /* Bullet width */
+  height: 12px; /* Bullet height */
+  background: gray; /* Default bullet color */
+  opacity: 0.5; /* Default opacity */
+  border-radius: 50%; /* Make them circular */
+  margin: 0 5px; /* Spacing between bullets */
+  /* transition: background 0.3s, opacity 0.3s; Transition effects? */
+}
+.swiper-pagination-bullet-active {
+  background: blue; /* Active bullet color */
+  opacity: 1; /* Full opacity for active bullet */
+}
+#Reviews , #Additional
+{
+  display: none;
+}
+#titleDes
+{
+  border-bottom: 2px solid #000000;
 }
