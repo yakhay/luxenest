@@ -45,7 +45,7 @@ function Shopproducts() {
                     type="text"
                     placeholder="Search ..."
                     value={searchTerm}
-                    onChange={(e) => setSearchTerm(e.target.value)} // Update search term on change
+                    onChange={(e) => setSearchTerm(e.target.value)} 
                     className="mb-4 p-2 border-b outline-none border-gray-300 rounded"
                 />
             </div>
