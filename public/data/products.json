@@ -3,10 +3,10 @@
       "id" : 1,
     "title": "Stylish Sneakers",
     "images": [
-        "https://s3-alpha-sig.figma.com/img/4491/a0ea/43eebd52ea72d60650f31030ec4bf7e6?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DDdVYu3Bj0LzTihFFU5BgcWnrGmP9oEBmH2XTL45sq64sRJF3s~sA4Sgl~r~K2AukP2vTB5bzGeLf6qhIBsHlCcf9GBZEh0NGEKS6McGgCoDfWQiDMxjDZBZlD86mJ5~qNXEJ0zE1J26vWBt3IJd2ouIO56fPz3aKWInbWnp1GWnhJSQ7j99P66AYNvoVT6UJ9qObd1vjglChqtZ2j4aNT56xkAaTPMnr-8X4OHMtKRhQRn9fyKNynFqrkQw8m7coLyh3pHW6dU5SvYxlC3tNZ3ZnH3v~tyl4Ya34f30eJ4nOYGVzpqjjDBRrSDkhcV1DFVzpABjSQMLRbD6EUB1wg__",
+        "/data/products/articl1.png",
         "/images/sneakers2.jpg",
-        "https://s3-alpha-sig.figma.com/img/2084/99f3/7c62fb49f7d4a1a6a5dc5959b40150ed?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Et9gLTXD-bTJX4gJMyzZTeUZO-~QLVJTWSLy3x0VHLXu9tkOWmeV65lHcu6YFekokfo3MpYjazwfxiI832YwTSW6epA02vZjbFDz0FyYS1NZmwx6eakLZtkZ1L7v3R6tsxqOPnFpGHTAW0qL-yBhyVavjiHxiUtH2le2WUSCzwxQYce9M~cQJeGJHtycXaf0f2Un6H7ZNjV-6ya4iGgJx2oGkTdGhyA0ACl6plniI8V1ILs3~~5ovz5k~mqRnKfiphGE31GEIc4wJV908uTVSVxNsbm4zeK1oe1TEE1nWCNT36g3CLw1nOhTi22HWgAoHKPAUpmRPEH73EXVN3NrFA__",
-        "https://s3-alpha-sig.figma.com/img/1f73/e563/4a5dbc0c29efbae1beca6ab40dd9b598?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dCPnxjVr9T1N6RePr0sUDQsEO7JAUnjNiCAaJ9DulTbVJtu-hxTkJ5IZGN4faKQtnIYsFHUh9Z4Hp9gqaqEk9CvVKjllYvJ8PAx8TR2FxZOhCC5tqhpPcs1gk79bTgUjMppLeNtKa~MY0nPjk4mCIic8WdJJskIXLS9aS05kFQx0spCtoRHfMCP9Fh3OoKEIbGU1if3Ivi8dc-bs-2VWbNnezwqwmHsQtpYOMTrfUFTgD1DYgw~6l2nFI-WLcAOBpuhM1WrezIIM74d1tiAuJFeG2ORLyWDD4ZazKalBtf-VRLxnx-MQvDsvN7DV~7H53czAKxiLRJDAMcocd-Lrlw__"
+        "/data/products/articl2.png",
+        "/data/products/articl3.jpeg"
 
 
     ],
@@ -19,7 +19,7 @@
         "id" : 2,
     "title": "Classic Leather Jacket",
     "images": [
-        "https://s3-alpha-sig.figma.com/img/2084/99f3/7c62fb49f7d4a1a6a5dc5959b40150ed?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Et9gLTXD-bTJX4gJMyzZTeUZO-~QLVJTWSLy3x0VHLXu9tkOWmeV65lHcu6YFekokfo3MpYjazwfxiI832YwTSW6epA02vZjbFDz0FyYS1NZmwx6eakLZtkZ1L7v3R6tsxqOPnFpGHTAW0qL-yBhyVavjiHxiUtH2le2WUSCzwxQYce9M~cQJeGJHtycXaf0f2Un6H7ZNjV-6ya4iGgJx2oGkTdGhyA0ACl6plniI8V1ILs3~~5ovz5k~mqRnKfiphGE31GEIc4wJV908uTVSVxNsbm4zeK1oe1TEE1nWCNT36g3CLw1nOhTi22HWgAoHKPAUpmRPEH73EXVN3NrFA__",
+        "/data/products/articl2.png",
         "/images/jacket2.jpg"
     ],
     "price": 199.99,
@@ -31,7 +31,7 @@
         "id" : 3,
     "title": "Wireless Headphones",
     "images": [
-        "https://s3-alpha-sig.figma.com/img/1f73/e563/4a5dbc0c29efbae1beca6ab40dd9b598?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dCPnxjVr9T1N6RePr0sUDQsEO7JAUnjNiCAaJ9DulTbVJtu-hxTkJ5IZGN4faKQtnIYsFHUh9Z4Hp9gqaqEk9CvVKjllYvJ8PAx8TR2FxZOhCC5tqhpPcs1gk79bTgUjMppLeNtKa~MY0nPjk4mCIic8WdJJskIXLS9aS05kFQx0spCtoRHfMCP9Fh3OoKEIbGU1if3Ivi8dc-bs-2VWbNnezwqwmHsQtpYOMTrfUFTgD1DYgw~6l2nFI-WLcAOBpuhM1WrezIIM74d1tiAuJFeG2ORLyWDD4ZazKalBtf-VRLxnx-MQvDsvN7DV~7H53czAKxiLRJDAMcocd-Lrlw__",
+        "/data/products/articl3.jpeg",
         "/images/headphones2.jpg"
     ],
     "price": 149.99,
@@ -43,7 +43,7 @@
         "id" : 4,
     "title": "Elegant Watch",
     "images": [
-        "https://s3-alpha-sig.figma.com/img/50f3/12dc/a7c05024ab4e27374edb12195b6559e2?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=IFKFJiYCLGtD~CKec5D5j~fka7U~laUhLRd~FjxiSmPjlQ3Xv24f38ZGCjfLtcDOInyD4my2mfoO735zfE1cc2yq7NURdDhVA9~8f-AO8~tmFmWVF6oFmOfNhG3bqR0J6T6rbkF9H8JFpW8kKWd2ol~xQpEZnNua~JjOn1PSaqn2swJs87ZfxI7qTs97HmSpUonxg-OwqUAaTl0WaZXhohY86vPg4mlJEcr8JozFRh~W63BvD9Qh1hzg7tStN2XHoFMJsU5PjbZVtrTQCJ5Xm3s3R7zNrO4o69E6IQoEPbxkH8T-qQZw5LkckkYUB9VyarVMV62j9JkyxRZA26-QuQ__",
+        "/data/products/articl4.png",
         "/images/watch2.jpg"
     ],
     "price": 299.99,
@@ -55,7 +55,7 @@
         "id" : 5,
     "title": "Fitness Tracker",
     "images": [
-        "https://s3-alpha-sig.figma.com/img/8d34/199d/e77ede2f478b2f26210bd264978981f6?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=iqSbAZFmew4fmiNBUqW5ku6TqNOEaRJ1qrIqtDR03E8rn7d--RGxrg3SZOD5pnpqGG2SOyYvaJTcFiDJiVAKak3WB~DWRHwGwxAHrDn9P2kLlI8JaUhDPM~uxlpEAwXzNqunsne20LNw3XuNBOoD~RumGxAkbnGRkTZ1OirUWIHkOB609kdS-G0rEqByLSiKwuytcJ-ssq~mivgf8xUA~i-A4cTeFbK~MCBcviOC3kU0hkHQsUtSAOCthtbzu1hMusi4TdtMEt7wNyLKrQBXA-S4ZjK~KEF9JfNkn8qUNucab6p7FEfd67uOm0o8yTVVrGoB-L57rwzTkaUD2mLesA__",
+        "/data/products/articl5.png",
         "/images/tracker2.jpg"
     ],
     "price": 99.99,
@@ -67,7 +67,7 @@
         "id" : 6,
     "title": "Fitness Tracker",
     "images": [
-        "https://s3-alpha-sig.figma.com/img/6028/dfe0/3d98b27fb98ee49958d7089f10d39dfe?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Rem6lFYZtcqzBlmI2n-73D33J7tb-GnyENvZZMCCg3x1bA7a2GadGLsu9VwVR6uiHeCjsuxNhkUxKPpkxP1n~B2FFVkjdMuVUnojvIzr6NgsOFeGqDgv0uc6zhsmLVKEaxU34bIqGIadBbRlDhAWoqgmof5wS7kWO5GjyMt8T28PUMc55SYkVtBU5WRo3gS-wpkG9leo3pGm-bHL3JKgU75JW4Mr9L~AKNAdi8f8LBHkKdgWs8RIMd7Ksk-zfBEp2l~H15I5ctNAJsILz42Zwg98Qf5fxegruqEit1sqR46EUH6dN88vCquuuhYrT1ooMl2lg2IVAYyvER7SkCwCMw__",
+        "/data/products/articl6.jpeg",
         "/images/tracker2.jpg"
     ],
     "price": 99.99,
@@ -79,7 +79,7 @@
         "id" : 7,
     "title": "Fitness Tracker",
     "images": [
-        "https://s3-alpha-sig.figma.com/img/b609/6926/ea43a4c55f9e28aa3592f17ff47a4303?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oqjGiHV8l5AdWtRtZ-wb9cvO1PobhR-JzT3LKo27nGJKHO4a19EI~5P5rV8gT5DeGeIvMdZdMR0c-smP9B7jd3Z2S-SPlg35KE4r9DVTZpotruLT~tZGDfYlVAWUQ2aPh7BfpfjMJT6RfEfDhJBNCOor-9fLU61MCFfpMytnWTcL8LYuTScbLflftEGDbNIzW85L9RI-bdPgVYz-BcYrYdslnijv8c63B1Ec1n0gNcXqTMIvgCgxnl4wernMa8gzQh8mFYpnEP9veqUegIOCsFmJZ0XqMETKm6YtHhyE4JNx-JUYmVCRxm6ERBatXkYJ9drL1FcYjqm9jB3reTTjFQ__",
+        "/data/products/articl7.jpeg",
         "/images/tracker2.jpg"
     ],
     "price": 99.99,
@@ -91,7 +91,7 @@
         "id" : 8,
         "title": "Fitness Tracker",
         "images": [
-            "https://s3-alpha-sig.figma.com/img/b609/6926/ea43a4c55f9e28aa3592f17ff47a4303?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oqjGiHV8l5AdWtRtZ-wb9cvO1PobhR-JzT3LKo27nGJKHO4a19EI~5P5rV8gT5DeGeIvMdZdMR0c-smP9B7jd3Z2S-SPlg35KE4r9DVTZpotruLT~tZGDfYlVAWUQ2aPh7BfpfjMJT6RfEfDhJBNCOor-9fLU61MCFfpMytnWTcL8LYuTScbLflftEGDbNIzW85L9RI-bdPgVYz-BcYrYdslnijv8c63B1Ec1n0gNcXqTMIvgCgxnl4wernMa8gzQh8mFYpnEP9veqUegIOCsFmJZ0XqMETKm6YtHhyE4JNx-JUYmVCRxm6ERBatXkYJ9drL1FcYjqm9jB3reTTjFQ__",
+            "/data/products/articl5.png",
             "/images/tracker2.jpg"
         ],
         "price": 99.99,
@@ -103,7 +103,7 @@
         "id" : 9,
         "title": "Fitness Tracker",
         "images": [
-            "https://s3-alpha-sig.figma.com/img/b609/6926/ea43a4c55f9e28aa3592f17ff47a4303?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oqjGiHV8l5AdWtRtZ-wb9cvO1PobhR-JzT3LKo27nGJKHO4a19EI~5P5rV8gT5DeGeIvMdZdMR0c-smP9B7jd3Z2S-SPlg35KE4r9DVTZpotruLT~tZGDfYlVAWUQ2aPh7BfpfjMJT6RfEfDhJBNCOor-9fLU61MCFfpMytnWTcL8LYuTScbLflftEGDbNIzW85L9RI-bdPgVYz-BcYrYdslnijv8c63B1Ec1n0gNcXqTMIvgCgxnl4wernMa8gzQh8mFYpnEP9veqUegIOCsFmJZ0XqMETKm6YtHhyE4JNx-JUYmVCRxm6ERBatXkYJ9drL1FcYjqm9jB3reTTjFQ__",
+            "/data/products/articl7.jpeg",
             "/images/tracker2.jpg"
         ],
         "price": 99.99,
@@ -115,7 +115,7 @@
         "id" : 10,
       "title": "Stylish Sneakers",
       "images": [
-          "https://s3-alpha-sig.figma.com/img/4491/a0ea/43eebd52ea72d60650f31030ec4bf7e6?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DDdVYu3Bj0LzTihFFU5BgcWnrGmP9oEBmH2XTL45sq64sRJF3s~sA4Sgl~r~K2AukP2vTB5bzGeLf6qhIBsHlCcf9GBZEh0NGEKS6McGgCoDfWQiDMxjDZBZlD86mJ5~qNXEJ0zE1J26vWBt3IJd2ouIO56fPz3aKWInbWnp1GWnhJSQ7j99P66AYNvoVT6UJ9qObd1vjglChqtZ2j4aNT56xkAaTPMnr-8X4OHMtKRhQRn9fyKNynFqrkQw8m7coLyh3pHW6dU5SvYxlC3tNZ3ZnH3v~tyl4Ya34f30eJ4nOYGVzpqjjDBRrSDkhcV1DFVzpABjSQMLRbD6EUB1wg__",
+          "/data/products/articl1.png",
           "/images/sneakers2.jpg"
       ],
       "price": 79.99,
@@ -127,7 +127,7 @@
           "id" : 11,
       "title": "Classic Leather Jacket",
       "images": [
-          "https://s3-alpha-sig.figma.com/img/2084/99f3/7c62fb49f7d4a1a6a5dc5959b40150ed?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Et9gLTXD-bTJX4gJMyzZTeUZO-~QLVJTWSLy3x0VHLXu9tkOWmeV65lHcu6YFekokfo3MpYjazwfxiI832YwTSW6epA02vZjbFDz0FyYS1NZmwx6eakLZtkZ1L7v3R6tsxqOPnFpGHTAW0qL-yBhyVavjiHxiUtH2le2WUSCzwxQYce9M~cQJeGJHtycXaf0f2Un6H7ZNjV-6ya4iGgJx2oGkTdGhyA0ACl6plniI8V1ILs3~~5ovz5k~mqRnKfiphGE31GEIc4wJV908uTVSVxNsbm4zeK1oe1TEE1nWCNT36g3CLw1nOhTi22HWgAoHKPAUpmRPEH73EXVN3NrFA__",
+          "/data/products/articl2.png",
           "/images/jacket2.jpg"
       ],
       "price": 199.99,
@@ -139,7 +139,7 @@
           "id" : 12,
       "title": "Wireless Headphones",
       "images": [
-          "https://s3-alpha-sig.figma.com/img/1f73/e563/4a5dbc0c29efbae1beca6ab40dd9b598?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dCPnxjVr9T1N6RePr0sUDQsEO7JAUnjNiCAaJ9DulTbVJtu-hxTkJ5IZGN4faKQtnIYsFHUh9Z4Hp9gqaqEk9CvVKjllYvJ8PAx8TR2FxZOhCC5tqhpPcs1gk79bTgUjMppLeNtKa~MY0nPjk4mCIic8WdJJskIXLS9aS05kFQx0spCtoRHfMCP9Fh3OoKEIbGU1if3Ivi8dc-bs-2VWbNnezwqwmHsQtpYOMTrfUFTgD1DYgw~6l2nFI-WLcAOBpuhM1WrezIIM74d1tiAuJFeG2ORLyWDD4ZazKalBtf-VRLxnx-MQvDsvN7DV~7H53czAKxiLRJDAMcocd-Lrlw__",
+          "/data/products/articl3.jpeg",
           "/images/headphones2.jpg"
       ],
       "price": 149.99,
@@ -151,7 +151,7 @@
           "id" : 13,
       "title": "Elegant Watch",
       "images": [
-          "https://s3-alpha-sig.figma.com/img/50f3/12dc/a7c05024ab4e27374edb12195b6559e2?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=IFKFJiYCLGtD~CKec5D5j~fka7U~laUhLRd~FjxiSmPjlQ3Xv24f38ZGCjfLtcDOInyD4my2mfoO735zfE1cc2yq7NURdDhVA9~8f-AO8~tmFmWVF6oFmOfNhG3bqR0J6T6rbkF9H8JFpW8kKWd2ol~xQpEZnNua~JjOn1PSaqn2swJs87ZfxI7qTs97HmSpUonxg-OwqUAaTl0WaZXhohY86vPg4mlJEcr8JozFRh~W63BvD9Qh1hzg7tStN2XHoFMJsU5PjbZVtrTQCJ5Xm3s3R7zNrO4o69E6IQoEPbxkH8T-qQZw5LkckkYUB9VyarVMV62j9JkyxRZA26-QuQ__",
+          "/data/products/articl4.png",
           "/images/watch2.jpg"
       ],
       "price": 299.99,
@@ -163,7 +163,7 @@
           "id" : 14,
       "title": "Fitness Tracker",
       "images": [
-          "https://s3-alpha-sig.figma.com/img/8d34/199d/e77ede2f478b2f26210bd264978981f6?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=iqSbAZFmew4fmiNBUqW5ku6TqNOEaRJ1qrIqtDR03E8rn7d--RGxrg3SZOD5pnpqGG2SOyYvaJTcFiDJiVAKak3WB~DWRHwGwxAHrDn9P2kLlI8JaUhDPM~uxlpEAwXzNqunsne20LNw3XuNBOoD~RumGxAkbnGRkTZ1OirUWIHkOB609kdS-G0rEqByLSiKwuytcJ-ssq~mivgf8xUA~i-A4cTeFbK~MCBcviOC3kU0hkHQsUtSAOCthtbzu1hMusi4TdtMEt7wNyLKrQBXA-S4ZjK~KEF9JfNkn8qUNucab6p7FEfd67uOm0o8yTVVrGoB-L57rwzTkaUD2mLesA__",
+          "/data/products/articl5.png",
           "/images/tracker2.jpg"
       ],
       "price": 99.99,
@@ -175,7 +175,7 @@
           "id" : 15,
       "title": "Fitness Tracker",
       "images": [
-          "https://s3-alpha-sig.figma.com/img/6028/dfe0/3d98b27fb98ee49958d7089f10d39dfe?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Rem6lFYZtcqzBlmI2n-73D33J7tb-GnyENvZZMCCg3x1bA7a2GadGLsu9VwVR6uiHeCjsuxNhkUxKPpkxP1n~B2FFVkjdMuVUnojvIzr6NgsOFeGqDgv0uc6zhsmLVKEaxU34bIqGIadBbRlDhAWoqgmof5wS7kWO5GjyMt8T28PUMc55SYkVtBU5WRo3gS-wpkG9leo3pGm-bHL3JKgU75JW4Mr9L~AKNAdi8f8LBHkKdgWs8RIMd7Ksk-zfBEp2l~H15I5ctNAJsILz42Zwg98Qf5fxegruqEit1sqR46EUH6dN88vCquuuhYrT1ooMl2lg2IVAYyvER7SkCwCMw__",
+          "/data/products/articl6.jpeg",
           "/images/tracker2.jpg"
       ],
       "price": 99.99,
@@ -187,7 +187,7 @@
           "id" : 16,
       "title": "Fitness Tracker",
       "images": [
-          "https://s3-alpha-sig.figma.com/img/b609/6926/ea43a4c55f9e28aa3592f17ff47a4303?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oqjGiHV8l5AdWtRtZ-wb9cvO1PobhR-JzT3LKo27nGJKHO4a19EI~5P5rV8gT5DeGeIvMdZdMR0c-smP9B7jd3Z2S-SPlg35KE4r9DVTZpotruLT~tZGDfYlVAWUQ2aPh7BfpfjMJT6RfEfDhJBNCOor-9fLU61MCFfpMytnWTcL8LYuTScbLflftEGDbNIzW85L9RI-bdPgVYz-BcYrYdslnijv8c63B1Ec1n0gNcXqTMIvgCgxnl4wernMa8gzQh8mFYpnEP9veqUegIOCsFmJZ0XqMETKm6YtHhyE4JNx-JUYmVCRxm6ERBatXkYJ9drL1FcYjqm9jB3reTTjFQ__",
+          "/data/products/articl7.jpeg",
           "/images/tracker2.jpg"
       ],
       "price": 99.99,
@@ -199,7 +199,7 @@
           "id" : 17,
           "title": "Fitness Tracker",
           "images": [
-              "https://s3-alpha-sig.figma.com/img/b609/6926/ea43a4c55f9e28aa3592f17ff47a4303?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oqjGiHV8l5AdWtRtZ-wb9cvO1PobhR-JzT3LKo27nGJKHO4a19EI~5P5rV8gT5DeGeIvMdZdMR0c-smP9B7jd3Z2S-SPlg35KE4r9DVTZpotruLT~tZGDfYlVAWUQ2aPh7BfpfjMJT6RfEfDhJBNCOor-9fLU61MCFfpMytnWTcL8LYuTScbLflftEGDbNIzW85L9RI-bdPgVYz-BcYrYdslnijv8c63B1Ec1n0gNcXqTMIvgCgxnl4wernMa8gzQh8mFYpnEP9veqUegIOCsFmJZ0XqMETKm6YtHhyE4JNx-JUYmVCRxm6ERBatXkYJ9drL1FcYjqm9jB3reTTjFQ__",
+              "/data/products/articl7.jpeg",
               "/images/tracker2.jpg"
           ],
           "price": 99.99,
@@ -211,7 +211,7 @@
           "id" : 18,
           "title": "Fitness Tracker",
           "images": [
-              "https://s3-alpha-sig.figma.com/img/b609/6926/ea43a4c55f9e28aa3592f17ff47a4303?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oqjGiHV8l5AdWtRtZ-wb9cvO1PobhR-JzT3LKo27nGJKHO4a19EI~5P5rV8gT5DeGeIvMdZdMR0c-smP9B7jd3Z2S-SPlg35KE4r9DVTZpotruLT~tZGDfYlVAWUQ2aPh7BfpfjMJT6RfEfDhJBNCOor-9fLU61MCFfpMytnWTcL8LYuTScbLflftEGDbNIzW85L9RI-bdPgVYz-BcYrYdslnijv8c63B1Ec1n0gNcXqTMIvgCgxnl4wernMa8gzQh8mFYpnEP9veqUegIOCsFmJZ0XqMETKm6YtHhyE4JNx-JUYmVCRxm6ERBatXkYJ9drL1FcYjqm9jB3reTTjFQ__",
+              "/data/products/articl7.jpeg",
               "/images/tracker2.jpg"
           ],
           "price": 99.99,
@@ -223,7 +223,7 @@
         "id" : 19,
       "title": "Stylish Sneakers",
       "images": [
-          "https://s3-alpha-sig.figma.com/img/4491/a0ea/43eebd52ea72d60650f31030ec4bf7e6?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DDdVYu3Bj0LzTihFFU5BgcWnrGmP9oEBmH2XTL45sq64sRJF3s~sA4Sgl~r~K2AukP2vTB5bzGeLf6qhIBsHlCcf9GBZEh0NGEKS6McGgCoDfWQiDMxjDZBZlD86mJ5~qNXEJ0zE1J26vWBt3IJd2ouIO56fPz3aKWInbWnp1GWnhJSQ7j99P66AYNvoVT6UJ9qObd1vjglChqtZ2j4aNT56xkAaTPMnr-8X4OHMtKRhQRn9fyKNynFqrkQw8m7coLyh3pHW6dU5SvYxlC3tNZ3ZnH3v~tyl4Ya34f30eJ4nOYGVzpqjjDBRrSDkhcV1DFVzpABjSQMLRbD6EUB1wg__",
+          "/data/products/articl1.png",
           "/images/sneakers2.jpg"
       ],
       "price": 79.99,
@@ -235,7 +235,7 @@
           "id" : 20,
       "title": "Classic Leather Jacket",
       "images": [
-          "https://s3-alpha-sig.figma.com/img/2084/99f3/7c62fb49f7d4a1a6a5dc5959b40150ed?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Et9gLTXD-bTJX4gJMyzZTeUZO-~QLVJTWSLy3x0VHLXu9tkOWmeV65lHcu6YFekokfo3MpYjazwfxiI832YwTSW6epA02vZjbFDz0FyYS1NZmwx6eakLZtkZ1L7v3R6tsxqOPnFpGHTAW0qL-yBhyVavjiHxiUtH2le2WUSCzwxQYce9M~cQJeGJHtycXaf0f2Un6H7ZNjV-6ya4iGgJx2oGkTdGhyA0ACl6plniI8V1ILs3~~5ovz5k~mqRnKfiphGE31GEIc4wJV908uTVSVxNsbm4zeK1oe1TEE1nWCNT36g3CLw1nOhTi22HWgAoHKPAUpmRPEH73EXVN3NrFA__",
+          "/data/products/articl2.png",
           "/images/jacket2.jpg"
       ],
       "price": 199.99,
@@ -247,7 +247,7 @@
           "id" : 21,
       "title": "Wireless Headphones",
       "images": [
-          "https://s3-alpha-sig.figma.com/img/1f73/e563/4a5dbc0c29efbae1beca6ab40dd9b598?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dCPnxjVr9T1N6RePr0sUDQsEO7JAUnjNiCAaJ9DulTbVJtu-hxTkJ5IZGN4faKQtnIYsFHUh9Z4Hp9gqaqEk9CvVKjllYvJ8PAx8TR2FxZOhCC5tqhpPcs1gk79bTgUjMppLeNtKa~MY0nPjk4mCIic8WdJJskIXLS9aS05kFQx0spCtoRHfMCP9Fh3OoKEIbGU1if3Ivi8dc-bs-2VWbNnezwqwmHsQtpYOMTrfUFTgD1DYgw~6l2nFI-WLcAOBpuhM1WrezIIM74d1tiAuJFeG2ORLyWDD4ZazKalBtf-VRLxnx-MQvDsvN7DV~7H53czAKxiLRJDAMcocd-Lrlw__",
+          "/data/products/articl3.jpeg",
           "/images/headphones2.jpg"
       ],
       "price": 149.99,
@@ -259,7 +259,7 @@
           "id" : 22,
       "title": "Elegant Watch",
       "images": [
-          "https://s3-alpha-sig.figma.com/img/50f3/12dc/a7c05024ab4e27374edb12195b6559e2?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=IFKFJiYCLGtD~CKec5D5j~fka7U~laUhLRd~FjxiSmPjlQ3Xv24f38ZGCjfLtcDOInyD4my2mfoO735zfE1cc2yq7NURdDhVA9~8f-AO8~tmFmWVF6oFmOfNhG3bqR0J6T6rbkF9H8JFpW8kKWd2ol~xQpEZnNua~JjOn1PSaqn2swJs87ZfxI7qTs97HmSpUonxg-OwqUAaTl0WaZXhohY86vPg4mlJEcr8JozFRh~W63BvD9Qh1hzg7tStN2XHoFMJsU5PjbZVtrTQCJ5Xm3s3R7zNrO4o69E6IQoEPbxkH8T-qQZw5LkckkYUB9VyarVMV62j9JkyxRZA26-QuQ__",
+          "/data/products/articl4.png",
           "/images/watch2.jpg"
       ],
       "price": 299.99,
@@ -271,7 +271,7 @@
           "id" : 23,
       "title": "Fitness Tracker",
       "images": [
-          "https://s3-alpha-sig.figma.com/img/8d34/199d/e77ede2f478b2f26210bd264978981f6?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=iqSbAZFmew4fmiNBUqW5ku6TqNOEaRJ1qrIqtDR03E8rn7d--RGxrg3SZOD5pnpqGG2SOyYvaJTcFiDJiVAKak3WB~DWRHwGwxAHrDn9P2kLlI8JaUhDPM~uxlpEAwXzNqunsne20LNw3XuNBOoD~RumGxAkbnGRkTZ1OirUWIHkOB609kdS-G0rEqByLSiKwuytcJ-ssq~mivgf8xUA~i-A4cTeFbK~MCBcviOC3kU0hkHQsUtSAOCthtbzu1hMusi4TdtMEt7wNyLKrQBXA-S4ZjK~KEF9JfNkn8qUNucab6p7FEfd67uOm0o8yTVVrGoB-L57rwzTkaUD2mLesA__",
+          "/data/products/articl5.png",
           "/images/tracker2.jpg"
       ],
       "price": 99.99,
@@ -283,7 +283,7 @@
           "id" : 24,
       "title": "Fitness Tracker",
       "images": [
-          "https://s3-alpha-sig.figma.com/img/6028/dfe0/3d98b27fb98ee49958d7089f10d39dfe?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Rem6lFYZtcqzBlmI2n-73D33J7tb-GnyENvZZMCCg3x1bA7a2GadGLsu9VwVR6uiHeCjsuxNhkUxKPpkxP1n~B2FFVkjdMuVUnojvIzr6NgsOFeGqDgv0uc6zhsmLVKEaxU34bIqGIadBbRlDhAWoqgmof5wS7kWO5GjyMt8T28PUMc55SYkVtBU5WRo3gS-wpkG9leo3pGm-bHL3JKgU75JW4Mr9L~AKNAdi8f8LBHkKdgWs8RIMd7Ksk-zfBEp2l~H15I5ctNAJsILz42Zwg98Qf5fxegruqEit1sqR46EUH6dN88vCquuuhYrT1ooMl2lg2IVAYyvER7SkCwCMw__",
+          "/data/products/articl6.jpeg",
           "/images/tracker2.jpg"
       ],
       "price": 99.99,
@@ -295,7 +295,7 @@
           "id" : 25,
       "title": "Fitness Tracker",
       "images": [
-          "https://s3-alpha-sig.figma.com/img/b609/6926/ea43a4c55f9e28aa3592f17ff47a4303?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oqjGiHV8l5AdWtRtZ-wb9cvO1PobhR-JzT3LKo27nGJKHO4a19EI~5P5rV8gT5DeGeIvMdZdMR0c-smP9B7jd3Z2S-SPlg35KE4r9DVTZpotruLT~tZGDfYlVAWUQ2aPh7BfpfjMJT6RfEfDhJBNCOor-9fLU61MCFfpMytnWTcL8LYuTScbLflftEGDbNIzW85L9RI-bdPgVYz-BcYrYdslnijv8c63B1Ec1n0gNcXqTMIvgCgxnl4wernMa8gzQh8mFYpnEP9veqUegIOCsFmJZ0XqMETKm6YtHhyE4JNx-JUYmVCRxm6ERBatXkYJ9drL1FcYjqm9jB3reTTjFQ__",
+          "/data/products/articl7.jpeg",
           "/images/tracker2.jpg"
       ],
       "price": 99.99,
@@ -307,7 +307,7 @@
           "id" : 26,
           "title": "Fitness Tracker",
           "images": [
-              "https://s3-alpha-sig.figma.com/img/b609/6926/ea43a4c55f9e28aa3592f17ff47a4303?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oqjGiHV8l5AdWtRtZ-wb9cvO1PobhR-JzT3LKo27nGJKHO4a19EI~5P5rV8gT5DeGeIvMdZdMR0c-smP9B7jd3Z2S-SPlg35KE4r9DVTZpotruLT~tZGDfYlVAWUQ2aPh7BfpfjMJT6RfEfDhJBNCOor-9fLU61MCFfpMytnWTcL8LYuTScbLflftEGDbNIzW85L9RI-bdPgVYz-BcYrYdslnijv8c63B1Ec1n0gNcXqTMIvgCgxnl4wernMa8gzQh8mFYpnEP9veqUegIOCsFmJZ0XqMETKm6YtHhyE4JNx-JUYmVCRxm6ERBatXkYJ9drL1FcYjqm9jB3reTTjFQ__",
+              "/data/products/articl7.jpeg",
               "/images/tracker2.jpg"
           ],
           "price": 99.99,
@@ -319,7 +319,7 @@
           "id" : 27,
           "title": "Fitness Tracker",
           "images": [
-              "https://s3-alpha-sig.figma.com/img/b609/6926/ea43a4c55f9e28aa3592f17ff47a4303?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oqjGiHV8l5AdWtRtZ-wb9cvO1PobhR-JzT3LKo27nGJKHO4a19EI~5P5rV8gT5DeGeIvMdZdMR0c-smP9B7jd3Z2S-SPlg35KE4r9DVTZpotruLT~tZGDfYlVAWUQ2aPh7BfpfjMJT6RfEfDhJBNCOor-9fLU61MCFfpMytnWTcL8LYuTScbLflftEGDbNIzW85L9RI-bdPgVYz-BcYrYdslnijv8c63B1Ec1n0gNcXqTMIvgCgxnl4wernMa8gzQh8mFYpnEP9veqUegIOCsFmJZ0XqMETKm6YtHhyE4JNx-JUYmVCRxm6ERBatXkYJ9drL1FcYjqm9jB3reTTjFQ__",
+              "/data/products/articl7.jpeg",
               "/images/tracker2.jpg"
           ],
           "price": 99.99,
